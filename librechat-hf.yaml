@@ -41,6 +41,8 @@ endpoints:
           "anthropic/claude-3-haiku",
           "------------------------------",
           "perplexity/sonar-medium-online",
+          "------------------------------",
+          "cohere/command-r",
           ]
         fetch: false
       titleConvo: true
