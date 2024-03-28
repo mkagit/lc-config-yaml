@@ -43,6 +43,7 @@ endpoints:
           "perplexity/sonar-medium-online",
           "------------------------------",
           "cohere/command-r",
+          "google/gemini-pro-1.5",
           ]
         fetch: false
       titleConvo: true
